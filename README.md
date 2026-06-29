@@ -749,6 +749,4 @@ Machine-Learning/
 
 
 
----
 
-⭐ This repository serves as a complete Machine Learning revision guide for coding interviews, placements, and technical interviews.
